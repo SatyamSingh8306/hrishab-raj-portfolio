@@ -1,2 +1,3 @@
-# hrishab-raj-portfolio
-hrishab raj's Portfolio
+# Satyam Singh
+
+This repository is now updated with the new author name.
